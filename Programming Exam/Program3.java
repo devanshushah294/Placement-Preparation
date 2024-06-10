@@ -19,4 +19,4 @@ public class Program3 {
         int n = sc.nextInt();
         System.out.println(findTrailingZeros(n));
     }
-}
+} 
